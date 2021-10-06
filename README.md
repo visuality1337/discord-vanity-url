@@ -1,2 +1,2 @@
-# discord-vanity-url
-simple trick to get vanity
+# Discord Vanity URL
+Simple trick to get vanity.
